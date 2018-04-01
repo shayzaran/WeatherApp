@@ -6,9 +6,7 @@ This is a todo list app which is using Realm.
 
 Below podfiles needed:
 
-pod 'RealmSwift'
-pod 'SwipeCellKit'
-pod 'ChameleonFramework/Swift'
+RealmSwift,SwipeCellKit,ChameleonFramework
 
 
 ## Built With
