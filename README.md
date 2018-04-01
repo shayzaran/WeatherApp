@@ -11,5 +11,5 @@ RealmSwift, SwipeCellKit, ChameleonFramework
 
 ### Built With
 
-XCode 9 & Swift 4
+XCode 9.2 & Swift 4
 
