@@ -2,9 +2,9 @@
 
 This is a todo list app which is using Realm.
 
-### Prerequisites
+### PodFiles
 
-Below podfiles needed
+Below podfiles needed:
 
 pod 'RealmSwift'
 pod 'SwipeCellKit'
