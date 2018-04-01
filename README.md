@@ -2,14 +2,14 @@
 
 This is a todo list app which is using Realm.
 
-### PodFiles
+## PodFiles
 
 Below podfiles needed:
 
 RealmSwift, SwipeCellKit, ChameleonFramework
 
 
-## Built With
+### Built With
 
 XCode 9 & Swift 4
 
